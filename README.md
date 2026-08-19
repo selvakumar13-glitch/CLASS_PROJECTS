@@ -16,6 +16,7 @@ This repository contains different Python-based mini projects covering topics su
 - Expense Tracking
 - Password Generation
 - Semester Result Calculation
+- 
 These projects are designed to be simple, beginner-friendly, and easy to understand.
 
 Projects Included:
@@ -130,4 +131,5 @@ Make sure Python is installed on your computer.
 Step 2: Clone the Repository
 
 Clone this repository using Git
+
 git clone https://github.com/selvakumar13-glitch/CLASS_PROJECTS/new/main
