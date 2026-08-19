@@ -16,7 +16,7 @@ This repository contains different Python-based mini projects covering topics su
 - Expense Tracking
 - Password Generation
 - Semester Result Calculation
-- 
+
 These projects are designed to be simple, beginner-friendly, and easy to understand.
 
 Projects Included:
